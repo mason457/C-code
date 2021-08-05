@@ -1,4 +1,4 @@
-¦X¨ÖÀÉ®×
+Â¦XÂ¨Ã–Ã€Ã‰Â®Ã—
 #include<stdio.h>
 void main()
 {
@@ -27,7 +27,7 @@ fclose(fp1);
 }
 
 
-¤À³ÎÀÉ®×
+Â¤Ã€Â³ÃŽÃ€Ã‰Â®Ã—
 #include<stdio.h>
 #include<string.h>
 void main()
