@@ -35,7 +35,7 @@ void replaceArray(int a[],int size, int num)
 }
 
 
-¨ú³Ì¤p¤½­¿¼Æ
+Â¨ÃºÂ³ÃŒÂ¤pÂ¤Â½Â­Â¿Â¼Ã†
 #include<stdio.h>
 void findlcm(int a,int b);
 void main()
