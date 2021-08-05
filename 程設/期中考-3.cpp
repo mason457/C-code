@@ -1,4 +1,4 @@
-�ĤT�D
+²Ä¤TÃD
 #include<stdio.h>
 int fact(int n);
 int comb(int n,int a);
