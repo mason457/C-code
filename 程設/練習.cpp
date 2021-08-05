@@ -1,4 +1,4 @@
-Â²©ö«¬­pºâ¾÷
+ç°¡æ˜“å‹è¨ˆç®—æ©Ÿ
 #include
 #include
 void main()
@@ -28,7 +28,7 @@ void main()
 }
 
 
-¨ú±o·í¤ë¥÷ªº³Ì«á¤@¤Ñ
+å–å¾—ç•¶æœˆä»½çš„æœ€å¾Œä¸€å¤©
 #include
 #include
 void main()
@@ -42,7 +42,7 @@ void main()
 }
 
 
-§PÂ_¬O§_¬°¦^¤å
+åˆ¤æ–·æ˜¯å¦ç‚ºå›æ–‡
 #include
 #include
 void reverseStr(char dest[], char source[]);
