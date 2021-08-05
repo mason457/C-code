@@ -1,4 +1,4 @@
-¿é¥X¦r¦ê
+è¼¸å‡ºå­—ä¸²
 #include<stdio.h>
 void main()
 {
@@ -14,7 +14,7 @@ void main()
 }
 
 
-¨«³X¦r¦ê
+èµ°è¨ªå­—ä¸²
 #include<stdio.h>
 void main()
 {
@@ -32,7 +32,7 @@ void main()
 }
 
 
-¦h´X­Ó¦r¤¸¦r¼Æ
+å¤šå¹¾å€‹å­—å…ƒå­—æ•¸
 #include<stdio.h>  
 void main()
 {
@@ -51,7 +51,7 @@ void main()
 	}
 }
 
-¦³´X­Ó¥À­µ¦r¤¸
+æœ‰å¹¾å€‹æ¯éŸ³å­—å…ƒ
 #include<stdio.h>
 void main()
 {
@@ -81,7 +81,7 @@ void main()
 	{
 		i++;
 	}
-	printf("¦r¦ê¦r¼Æ = %d\n",i);
+	printf("å­—ä¸²å­—æ•¸ = %d\n",i);
 	for(int j = i - 1 ; j >= 0 ;j--)
 	{
 		printf("%c\n",str[j]);
@@ -99,7 +99,7 @@ void main()
 	{
 		i++;
 	}
-	printf("¦r¤¸¦r¼Æ = %d\n",i);
+	printf("å­—å…ƒå­—æ•¸ = %d\n",i);
 	for(i = i - 1 ; i >= 0 ;i--)
 	{
 		printf("%c\n",str[i]);
@@ -107,7 +107,7 @@ void main()
 }
 
 
-¨C­Ó¦r¤¸ÅÜ¤j¼g
+æ¯å€‹å­—å…ƒè®Šå¤§å¯«
 #include<stdio.h>
 #include<string.h>
 void main()
@@ -116,11 +116,11 @@ void main()
 	printf("%d\n",strlen(str));
 }
 
-strcpy() ¦r¦ê«ş¨©
-strcmp() ¦r¦ê¤ñ¹ï
+strcpy() å­—ä¸²æ‹·è²
+strcmp() å­—ä¸²æ¯”å°
 
 
-¦r¦ê«ş¨©
+å­—ä¸²æ‹·è²
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
@@ -139,7 +139,7 @@ void main()
 }
 
 
-¦r¦ê¤ñ¹ï
+å­—ä¸²æ¯”å°
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
